@@ -1,0 +1,97 @@
+le sport;sport
+le football;football (soccer)
+le basketball;basketball
+le tennis;tennis
+le volleyball;volleyball
+le golf;golf
+la natation;swimming
+le cyclisme;cycling
+l'athlétisme;athletics
+le ski;skiing
+le jogging;jogging
+la course;running
+le rugby;rugby
+le hockey;hockey
+la boxe;boxing
+le judo;judo
+la gymnastique;gymnastics
+la danse;dance
+l'escalade;climbing
+le surf;surfing
+la voile;sailing
+le patinage;skating
+le badminton;badminton
+le squash;squash
+le cricket;cricket
+le haltérophilie;weightlifting
+le kayak;kayak
+le canoë;canoeing
+l'équitation;horse riding
+la plongée;diving
+le tir à l'arc;archery
+le ping-pong;table tennis
+le baseball;baseball
+la musculation;bodybuilding
+la randonnée;hiking
+le skate;skateboarding
+le snowboard;snowboarding
+le triathlon;triathlon
+le water-polo;water polo
+la pêche;fishing
+le taekwondo;taekwondo
+le karaté;karate
+la lutte;wrestling
+le polo;polo
+le handball;handball
+le parapente;paragliding
+le rafting;rafting
+le biathlon;biathlon
+le curling;curling
+le patinage artistique;figure skating
+jouer;to play
+le match;match
+l'équipe;team
+gagner;to win
+perdre;to lose
+le championnat;championship
+l'entraînement;training
+s'entraîner;to train
+le joueur;player
+le terrain;field
+le stade;stadium
+marquer;to score
+le but;goal
+l'arbitre;referee
+le coup d'envoi;kick-off
+le tir;shot
+tirer;to shoot
+le coup franc;free kick
+le penalty;penalty
+la faute;foul
+le hors-jeu;offside
+le supporter;supporter
+encourager;to encourage
+la victoire;victory
+la défaite;defeat
+le champion;champion
+la compétition;competition
+compétitif;competitive
+la médaille;medal
+le record;record
+battre;to beat
+le classement;ranking
+classer;to rank
+l'égalité;tie
+égaliser;to equalize
+le demi-finale;semi-final
+la finale;final
+le quart de finale;quarter-final
+l'entraîneur;coach
+le dribble;dribble
+dribbler;to dribble
+passer;to pass
+la passe;pass
+le coup de pied;kick
+frapper;to kick
+bloquer;to block
+le gardien;goalkeeper

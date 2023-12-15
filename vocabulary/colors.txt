@@ -1,0 +1,15 @@
+bleu;blue
+rouge;red
+vert;green
+jaune;yellow
+noir;black
+blanc;white
+gris;gray
+rose;pink
+orange;orange
+violet;purple
+marron;brown
+beige;beige
+turquoise;turquoise
+doré;gold
+argenté;silver

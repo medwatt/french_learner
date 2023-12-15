@@ -1,0 +1,41 @@
+# French Learning Game Configuration
+
+# Probability of repeating an already seen word (0-1)
+repeat_seen_probability: 0.05
+
+# Probability of repeating a wrongly guessed word (0-1)
+repeat_wrong_probability: 0.25
+
+# Whether to ignore accents in spelling (true/false)
+ignore_accents: true
+
+# Importance of the correct article (true/false)
+ignore_article: true
+
+# Language direction for guessing (true for English-to-French, false for French-to-English,)
+guess_french_word: true
+
+# Number of times to guess a word correctly before removing from wrong words (default 3)
+correct_guesses_to_remove: 3
+
+# Say words aloud
+say_word: false
+
+# List of vocabulary sets with titles and filenames
+vocabulary_sets:
+  - title: "Verbs"
+    filename: "verbs.txt"
+  - title: "Body Parts"
+    filename: "body_parts.txt"
+  - title: "Well Being"
+    filename: "well-being.txt"
+  - title: "Kitchen"
+    filename: "kitchen.txt"
+  - title: "Colors"
+    filename: "colors.txt"
+  - title: "Connecting Words"
+    filename: "connecting_words.txt"
+  - title: "Tools"
+    filename: "tools.txt"
+  - title: "Sport"
+    filename: "sport.txt"

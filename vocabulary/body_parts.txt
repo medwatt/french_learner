@@ -1,0 +1,43 @@
+le corps;body
+la tête;head
+les yeux;eyes
+l'oeil;eye
+le nez;nose
+la bouche;mouth
+l'oreille;ear
+le bras;arm
+la jambe;leg
+le pied;foot
+la main;hand
+le doigt;finger
+les cheveux;hair
+la dent;tooth
+la langue;tongue
+le coeur;heart
+l'estomac;stomach
+la peau;skin
+l'épaule;shoulder
+le genou;knee
+le cou;neck
+le dos;back
+la poitrine;chest
+le ventre;belly
+l'ongle;nail
+la lèvre;lip
+le sourcil;eyebrow
+le cil;eyelash
+le foie;liver
+le rein;kidney
+le poumon;lung
+le cerveau;brain
+la colonne vertébrale;spine
+le visage;face
+la gorge;throat
+la hanche;hip
+la cuisse;thigh
+le mollet;calf
+le talon;heel
+l'orteil;toe
+le sang;blood
+la cheville;ankle
+le coude;elbow
