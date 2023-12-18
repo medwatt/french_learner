@@ -1,9 +1,54 @@
 import os
 import yaml
 import random
+import time
 import datetime
 import unicodedata
 import subprocess
+
+################################################################################
+#                                   Spelling                                   #
+################################################################################
+
+def levenshtein_distance(word1, word2):
+    """
+    Calculate the Levenshtein Distance between two words.
+
+    :param word1: First word for comparison.
+    :param word2: Second word for comparison.
+    :return: Levenshtein Distance as an integer.
+    """
+    if len(word1) < len(word2):
+        return levenshtein_distance(word2, word1)
+
+    if len(word2) == 0:
+        return len(word1)
+
+    previous_row = range(len(word2) + 1)
+    for i, c1 in enumerate(word1):
+        current_row = [i + 1]
+        for j, c2 in enumerate(word2):
+            insertions = previous_row[j + 1] + 1
+            deletions = current_row[j] + 1
+            substitutions = previous_row[j] + (c1 != c2)
+            current_row.append(min(insertions, deletions, substitutions))
+        previous_row = current_row
+
+    return previous_row[-1]
+
+def word_similarity(word1, word2):
+    """
+    Compute a similarity score between two words.
+
+    :param word1: First word for comparison.
+    :param word2: Second word for comparison.
+    :return: Similarity score as a float between 0 and 1.
+    """
+    distance = levenshtein_distance(word1.lower(), word2.lower())
+    length = max(len(word1), len(word2))
+    similarity = 1 - distance / length
+    return similarity
+
 
 def create_directory_if_not_exists(path):
     if not os.path.exists(path):
@@ -73,17 +118,72 @@ def save_missed_words(wrong_words, original_path):
 
     print(f"Missed words saved to {new_path}")
 
-def review_set(vocabulary, config, vocab_path):
-    print(vocabulary)
-    for word_pair in vocabulary:
-        print("----------------->")
+def choose_mode():
+    sets = [
+        "Guess The Word",
+        "Review Vocabulary",
+    ]
+    for i, set_ in enumerate(sets):
+        print(f"{i+1}. {sets[i]}")
+    choice = int(input("Select a game by number: "))
+    return choice
+
+
+def review_set(vocabulary, config, paths):
+    try:
+        repeat_word = int(input("How many times do you want to repeat every word [default: 1]: ") or 1)
+        if repeat_word > 1:
+            print("Press Ctrl+C to pause")
+    except ValueError:
+        repeat_word = 1
+
+    def read_word_aloud(word, lang):
+        path = os.path.join(paths["sound"], paths["vocab_set_name"], word.replace(" ", "_").replace("'", ""))
+        read_word(f"{path}_{lang}.mp3")
+
+    def pause_if_needed():
+        try:
+            print("...")
+            time.sleep(1.5)
+            print("<<<")
+        except KeyboardInterrupt:
+            input("Paused. Press Enter to continue...")
+
+    # Randomize the vocabulary set
+    random.shuffle(vocabulary)
+
+    for i, word_pair in enumerate(vocabulary):
         french, english = word_pair
-        path_fr = os.path.join(vocab_path[:-4], french.replace("'", "").replace(" ", "_"))
-        path_en = os.path.join(vocab_path[:-4], english.replace("'", "").replace(" ", "_"))
-        print(f"{path_fr}_fr.mp3")
-        read_word(f"{path_fr}_fr.mp3")
-        print(f"{path_en}_en.mp3")
-        read_word(f"{path_en}_en.mp3")
+        print(f"{i+1}/{len(vocabulary)}. {english} -> {french}")
+
+        for _ in range(repeat_word):
+            read_word_aloud(english, "en")
+            time.sleep(0.5)
+            read_word_aloud(french, "fr")
+            pause_if_needed()
+
+    print("Review session completed.")
+
+def check_answer(answer, user_input, config):
+
+    if user_input.lower() == answer:
+        return True
+
+    if config['guess_french_word']:
+        normalized_answer = answer
+        if config['ignore_accents']:
+            normalized_answer = remove_article(answer)
+        if config['ignore_article']:
+            normalized_answer = normalize_word(normalized_answer, config['ignore_accents'])
+
+    if user_input.lower() == normalized_answer.lower():
+        return True
+
+    if config["liberal_spelling"] and word_similarity(normalized_answer.lower(), user_input.lower()) > 0.7:
+        return True
+
+    return False
+
 
 def play_game(vocabulary, config, paths):
     seen_words = set()
@@ -111,14 +211,7 @@ def play_game(vocabulary, config, paths):
             if user_input == "-1":
                 break
 
-            if config['guess_french_word']:
-                normalized_answer = answer
-                if config['ignore_accents']:
-                    normalized_answer = remove_article(answer)
-                if config['ignore_article']:
-                    normalized_answer = normalize_word(normalized_answer, config['ignore_accents'])
-
-            if user_input.lower() == answer or user_input.lower() == normalized_answer.lower():
+            if check_answer(answer, user_input, config):
                 if user_input.lower() != answer and (config['ignore_accents'] or config['ignore_article']):
                     print("Correct!: ", answer)
                 else:
@@ -153,8 +246,15 @@ def play_game(vocabulary, config, paths):
 if __name__ == "__main__":
     print("Welcome to the French Vocabulary Game. Type '-1' at any time to quit.")
     config = load_config()
+
+    game_mode = choose_mode()
+
     vocab_set_filename = select_vocabulary_set(config['vocabulary_sets'])
     paths = set_paths(vocab_set_filename)
     vocabulary = load_vocabulary(paths["vocab_set"])
-    play_game(vocabulary, config, paths)
-    # review_set(vocabulary, config, vocab_path)
+
+    if game_mode == 1:
+        play_game(vocabulary, config, paths)
+    else:
+        review_set(vocabulary, config, paths)
+

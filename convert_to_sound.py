@@ -57,7 +57,7 @@ def process_files(folder_path):
             process_file(file_path, output_folder, existing_files)
 
 def main():
-    folder_path = '/home/medwatt/coding/python/french_learner/vocabulary/'
+    folder_path = '/home/medwatt/coding/python/french_learner/xxx/'
     process_files(folder_path)
 
 if __name__ == "__main__":

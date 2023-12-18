@@ -26,7 +26,6 @@ le rouleau à pâtisserie;rolling pin
 le fouet;whisk
 la passoire;colander
 l'ouvre-boîte;can opener
-le tire-bouchon;corkscrew
 la spatule;spatula
 le presse-purée;potato masher
 le mortier;mortar

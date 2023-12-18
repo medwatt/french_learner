@@ -1,0 +1,86 @@
+très;very
+trop;too
+aussi;also
+bien;well
+souvent;often
+toutefois;however
+plus;more
+le plus;most
+maintenant;now
+alors;then
+là;there
+ici;here
+juste;just
+déjà;already
+toujours;always
+jamais;never
+vraiment;really
+probablement;probably
+en fait;actually
+peut-être;maybe
+encore;still
+assez;quite
+presque;almost
+plutôt;rather
+exactement;exactly
+ensemble;together
+bientôt;soon
+finalement;finally
+encore;again
+directement;directly
+immédiatement;immediately
+rapidement;quickly
+lentement;slowly
+certainement;certainly
+clairement;clearly
+spécialement;especially
+simplement;simply
+au sens propre;literally
+complètement;completely
+généralement;generally
+évidemment;obviously
+relativement;relatively
+particulièrement;particularly
+spécifiquement;specifically
+soudainement;suddenly
+sérieusement;seriously
+personnellement;personally
+naturellement;naturally
+surprenamment;surprisingly
+également;equally
+ailleurs;elsewhere
+partout;everywhere
+ailleurs;anywhere
+à l'étage;upstairs
+en bas;downstairs
+dehors;outdoors
+à l'intérieur;indoors
+quelque part;somewhere
+nulle part;nowhere
+en avant;forward
+en arrière;backward
+à part;apart
+seul;alone
+de plus;additionally
+par conséquent;consequently
+de plus;moreover
+néanmoins;nevertheless
+donc;therefore
+ainsi;thus
+pendant ce temps;meanwhile
+après;afterward
+en outre;furthermore
+au lieu;instead
+sinon;otherwise
+de même;similarly
+désormais;henceforth
+de même;likewise
+à savoir;namely
+néanmoins;nonetheless
+nonobstant;notwithstanding
+tandis que;whereas
+inversement;conversely
+premièrement;firstly
+deuxièmement;secondly
+troisièmement;thirdly
+enfin;lastly

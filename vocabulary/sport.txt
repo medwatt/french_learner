@@ -1,5 +1,5 @@
 le sport;sport
-le football;football (soccer)
+le football;football
 le basketball;basketball
 le tennis;tennis
 le volleyball;volleyball
@@ -24,6 +24,7 @@ le badminton;badminton
 le squash;squash
 le cricket;cricket
 le haltérophilie;weightlifting
+la clôture;fencing
 le kayak;kayak
 le canoë;canoeing
 l'équitation;horse riding
@@ -44,8 +45,6 @@ la lutte;wrestling
 le polo;polo
 le handball;handball
 le parapente;paragliding
-le rafting;rafting
-le biathlon;biathlon
 le curling;curling
 le patinage artistique;figure skating
 jouer;to play

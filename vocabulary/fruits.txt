@@ -1,0 +1,46 @@
+la pomme;apple
+la banane;banana
+l'orange;orange
+la fraise;strawberry
+le raisin;grape
+la cerise;cherry
+la pastèque;watermelon
+le citron;lemon
+la poire;pear
+l'ananas;pineapple
+la pêche;peach
+le melon;cantaloupe
+la mangue;mango
+la framboise;raspberry
+le kiwi;kiwi
+la myrtille;blueberry
+l'avocat;avocado
+la prune;plum
+la grenade;pomegranate
+la papaye;papaya
+la carotte;carrot
+la tomate;tomato
+la pomme de terre;potato
+le brocoli;broccoli
+la laitue;lettuce
+le concombre;cucumber
+les épinards;spinach
+l'oignon;onion
+l'ail;garlic
+le poivron;bell pepper
+la courgette;zucchini
+l'aubergine;eggplant
+le chou;cabbage
+le maïs;corn
+les champignons;mushroom
+le céleri;celery
+les haricots;beans
+le pois;pea
+la betterave;beet
+le radis;radish
+le chou-fleur;cauliflower
+l'asperge;asparagus
+la citrouille;pumpkin
+le navet;turnip
+la patate douce;sweet potato
+le gingembre;ginger
