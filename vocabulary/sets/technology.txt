@@ -1,0 +1,48 @@
+l'ordinateur;computer
+le logiciel;software
+le matériel;hardware
+l'internet;internet
+le réseau;network
+le serveur;server
+la base de données;database
+le fichier;file
+le dossier;folder
+le clavier;keyboard
+la souris;mouse
+l'écran;screen
+le moniteur;monitor
+l'imprimante;printer
+le scanner;scanner
+le courriel;email
+le site web;website
+le lien;link
+le mot de passe;password
+l'utilisateur;user
+le navigateur;browser
+le téléchargement;download
+le téléversement;upload
+le pare-feu;firewall
+le disque dur;hard drive
+la clé USB;USB stick
+le système d'exploitation;operating system
+la mémoire;memory
+le processeur;processor
+le portable;laptop
+la tablette;tablet
+le smartphone;smartphone
+le Bluetooth;Bluetooth
+le Wi-Fi;Wi-Fi
+le cloud;cloud
+la programmation;programming
+le code;code
+le développeur;developer
+l'intelligence artificielle;artificial intelligence
+la réalité virtuelle;virtual reality
+la réalité augmentée;augmented reality
+le robot;robot
+le drone;drone
+la blockchain;blockchain
+la cryptomonnaie;cryptocurrency
+le bitcoin;Bitcoin
+la cybersécurité;cybersecurity
+l'algorithm;algorithm

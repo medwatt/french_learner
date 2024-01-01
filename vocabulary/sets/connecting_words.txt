@@ -1,0 +1,50 @@
+donc;therefore
+pendant ce temps;meanwhile
+même si;even though
+néanmoins;nevertheless
+autant que;as much as
+de plus;moreover
+cependant;however
+par conséquent;consequently
+en outre;furthermore
+ainsi;thus
+d'autre part;on the other hand
+en revanche;in contrast
+de même;similarly
+par exemple;for instance
+en fait;in fact
+à cause de cela;because of this
+malgré;despite
+en plus;in addition
+au lieu de;instead
+en conséquence;as a result
+notamment;notably
+surtout;especially
+tel que;such as
+à moins que;unless
+jusqu'à ce que;until
+tandis que;whereas
+alors que;while
+dès que;as soon as
+tant que;as long as
+pourvu que;provided that
+afin que;so that
+afin de;in order to
+en raison de;due to
+grâce à;owing to
+concernant;regarding
+par rapport à;with respect to
+en termes de;in terms of
+quant à;as for
+à part;apart from
+sauf pour;except for
+en dépit de;in spite of
+selon;according to
+ainsi que;as well as
+soit...soit;either...or
+ni...ni;neither...nor
+non seulement...mais aussi;not only...but also
+que...ou;whether...or
+bien que;albeit
+en supposant que;assuming that
+étant donné que;given that

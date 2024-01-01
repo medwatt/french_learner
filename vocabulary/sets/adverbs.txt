@@ -1,0 +1,185 @@
+plus, davantage;more
+le plus;most
+de plus;additionally, moreover
+bien;well
+encore;again, still
+aussi;also
+même;even, same
+jamais;never
+très;very
+toujours;always
+là;there
+alors;then, so
+si;if, so
+trop;too much
+moins;less
+déjà;already
+peut-être;maybe
+peu;little
+maintenant;now
+ici;here
+ainsi;thus, so
+donc;therefore
+pendant ce temps;meanwhile
+presque;almost
+beaucoup;a lot, much
+loin;far
+tellement, tant;so much
+assez;enough, quite
+mieux;better
+seulement;only
+pourtant;yet, though
+comme;like, as
+autour;around
+rapidement, vite;quickly, fast
+mal;badly, poorly
+ailleurs;elsewhere
+tard;late
+longtemps;a long time
+spécialement, surtout;especially, specially
+parfois, tantôt;sometimes
+littéralement, au sens propre;literally
+souvent;often
+plutôt;rather
+vraiment;really
+puis, ensuite;then, afterwards
+autant;as much
+par conséquent;consequently
+soudainement;suddenly
+partout;everywhere
+bientôt;soon
+comment;how
+debout;upright
+près;near
+lentement;slowly
+en fait;actually
+ensemble;together
+cependant, toutefois;however
+après;after
+simplement;simply
+demain;tomorrow
+doucement;gently, softly
+tôt;early
+là-bas;over there
+avant;before
+depuis;since
+quelque;some
+brusquement, abruptement;abruptly
+guère;hardly
+juste;just, right
+à l'étage;upstairs
+en bas;downstairs
+dehors;outside
+à l'intérieur;indoors
+combien;how much, how many
+autrefois;formerly, at one time
+hier;yesterday
+exactement;exactly
+désormais;from now on, henceforth
+évidemment;obviously
+complètement;completely
+pas du tout;not at all
+sûrement;surely
+naturellement;naturally
+parfaitement;perfectly
+également;equally
+pendant;during
+certes;admittedly
+légèrement;lightly, slightly
+absolument;absolutely
+sinon, autrement;otherwise
+certainement;certainly
+finalement, enfin;finally, at the end
+longuement;at length
+quelque part;somewhere
+nulle part;nowhere
+en avant;forward
+en arrière;backward
+demi;half
+jadis;once, formerly
+c'est-à-dire;that is to say, i.e.
+vaguement;vaguely
+heureusement;fortunately
+bon;good
+là-haut;up there
+immédiatement;immediately
+auparavant;previously
+volontiers;gladly, willingly
+entièrement;entirely
+dedans;inside
+directement;directly
+bref;briefly
+probablement;probably
+facilement, aisément;easily
+particulièrement;particularly
+néanmoins;nevertheless
+précisément;precisely
+profondément;deeply
+soigneusement;carefully
+droit;right, straight
+rarement;rarely
+décidément;decidedly
+bas;low, down
+vivement;eagerly, vividly
+jusque-là;until then
+apparemment;apparently
+nécessairement, forcément;necessarily
+de nos jours;nowadays
+franchement;frankly, honestly
+régulièrement;regularly
+environ;approximately, about
+tranquillement;quietly, calmly
+largement;widely, largely
+drôlement;funnily
+uniquement, seulement;solely
+visiblement;visibly
+là-dedans;in there
+définitivement;definitely
+totalement;totally
+sérieusement, gravement;seriously
+gentiment;kindly, nicely
+malheureusement;unfortunately
+violemment;violently
+notamment;notably
+suffisamment;sufficiently
+discrètement;discreetly
+sitôt;as soon as
+clairement;clearly
+infiniment;infinitely
+silencieusement;silently
+pratiquement;practically
+extrêmement;extremely
+généralement;generally
+faiblement;weakly, faintly
+actuellement;currently, at the moment
+a priori;a priori
+effectivement;effectively
+proprement;properly, neatly
+gaiement;cheerfully, merrily
+fortement;strongly, heavily
+constamment;constantly
+récemment;recently
+personnellement;personally
+étrangement, bizarrement;strangely, oddly
+lourdement;heavily, ponderously
+terriblement;terribly
+distraitement;absentmindedly
+sincèrement;sincerely
+secrètement;secretly
+difficilement;with difficulty
+durement;hard, harshly
+tendrement;tenderly
+librement;freely
+curieusement;curiously
+au-delà;beyond
+normalement;normally
+tandis que, alors que;whereas
+inversement;conversely
+premièrement, d'abord;firstly, first of all
+deuxièmement;secondly
+troisièmement;thirdly
+en outre;furthermore
+au lieu;instead
+de même;similarly, likewise
+à savoir;namely
+nonobstant;notwithstanding

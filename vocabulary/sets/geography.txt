@@ -1,0 +1,39 @@
+la montagne;mountain
+la vallée;valley
+la colline;hill
+la plaine;plain
+le plateau;plateau
+le désert;desert
+l'océan;ocean
+la mer;sea
+le lac;lake
+la rivière;river
+le fleuve;large river
+le ruisseau;stream
+la cascade;waterfall
+le glacier;glacier
+l'île;island
+le volcan;volcano
+la forêt;forest
+la jungle;jungle
+le marécage;swamp
+le canyon;canyon
+la grotte;cave
+le gouffre;chasm
+la falaise;cliff
+la dune;dune
+le littoral;coast
+la baie;bay
+le golfe;gulf
+le cap;cape
+la péninsule;peninsula
+l'archipel;archipelago
+le récif;reef
+le delta;delta
+l'estuaire;estuary
+la toundra;tundra
+la savane;savanna
+la steppe;steppe
+l'oasis;oasis
+le sommet;summit
+le pic;peak

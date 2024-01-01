@@ -1,0 +1,451 @@
+quelque;some
+grand;big, large
+petit;small, little
+chaque;each
+seul;only, single
+jeune;young
+bon;good
+vrai;true, real
+premier;first
+beau, bel;beautiful, handsome
+gros;big, fat
+plusieurs;several
+possible;possible
+rouge;red
+noir;black
+plein;full
+long;long
+blanc;white
+propre;clean, own
+pauvre;poor
+dernier;last
+libre;free
+heureux;happy
+simple;simple
+moindre;least
+mal, mauvais;bad
+vide;empty
+certain;certain
+difficile;difficult
+bleu;blue
+bas;low, bottom
+même;same
+froid;cold
+sombre;dark
+clair;clear
+cher;expensive, dear
+bon marché;cheap
+impossible;impossible
+facile;easy
+gris;gray
+haut;high, tall
+gauche;left
+immobile;immobile
+triste;sad
+drôle;funny
+immense;immense
+étrange;strange
+fou;crazy
+énorme;enormous
+dur;hard
+droit;right, straight
+tranquille;quiet
+léger;light
+sale;dirty
+doux;soft, sweet
+terrible;terrible
+sec;dry
+large;wide
+similaire;similar
+capable;capable
+militaire;military
+pâle;pale
+unique;unique
+rose;pink
+faux;false
+malade;sick
+calme;calm
+proche;near, close
+entier;whole
+ouvert;open
+fort;strong
+prêt;ready
+mince;thin, slim
+vieux, ancien;old
+vert;green
+deuxième;second
+troisième;third
+lourd;heavy
+sûr;sure, safe
+frais;fresh, cool
+vaste;vast
+vite, rapide;fast
+présent;present
+inutile;useless
+double;double
+certains;certain
+content;happy, content
+rare;rare
+important;important
+général;general
+nécessaire;necessary
+national;national
+britannique;British
+profond;deep
+humain;human
+chaud;hot
+tendre;tender
+français;French
+soudain;sudden
+joli;pretty
+politique;political
+curieux;curious
+normal;normal
+sérieux, grave;serious
+silencieux;silent
+riche;rich
+maigre;skinny
+bizarre;strange, weird
+vif;bright, lively
+extrême;extreme
+mort;dead
+vivant;living
+vague;vague
+épais;thick
+faible;weak
+malheureux;unhappy
+vain;vain
+court;short
+pire;worse
+ferme;firm
+incapable;incapable
+naturel;natural
+précis;precise
+humide;humid, damp
+minuscule;tiny
+gentil, sympathique, aimable;nice, kind
+nombreux;numerous
+tiède;lukewarm
+anglais;English
+bien;well
+ridicule;ridiculous
+invisible;invisible
+extraordinaire;extraordinary
+fragile;fragile
+russe;Russian
+bref;brief
+sauvage;wild
+meilleur;better, best
+jaune;yellow
+fin;fine, thin
+lointain;distant
+dangereux;dangerous
+nul;null, worthless
+prochain;next
+commun;common
+passé;past
+solide;solid
+fier;proud
+agréable;pleasant
+amoureux;in love
+sensible;sensitive
+aveugle;blind
+blond;blond
+secret;secret
+étroit;narrow
+furieux;furious
+la plupart des;most of the
+obscur;obscure
+plat;flat
+moyen;average, medium
+rond;round
+fixe;fixed
+allemand;German
+paisible;peaceful
+arrière;back, rear
+physique;physical
+électrique;electric
+fidèle;faithful
+différent;different
+mystérieux;mysterious
+fait;made, done
+digne;worthy
+brusque;abrupt
+joyeux;joyful
+inconnu;unknown
+américain;American
+gras;fat
+nocturne;nocturnal
+innombrable;countless
+public;public
+total;total
+social;social
+délibéré;deliberate
+absurde;absurd
+célèbre;famous
+raide;stiff
+moderne;modern
+avant;before, front
+lisse;smooth
+visible;visible
+demi;half
+utile;useful
+admirable;admirable
+intime;intimate
+voisin;neighboring
+particulier;particular
+sage;wise, well-behaved
+populaire;popular
+modeste;modest
+intérieur;interior
+inquiet;worried
+lent;slow
+brave;brave
+venu;come
+lumineux;bright
+sévère;severe
+précieux;precious
+magnifique;magnificent
+désert;deserted
+étranger;foreign
+mou;soft
+rude;rough
+gai;cheerful
+vu;seen
+neuf, nouvel, nouveau;new
+insupportable;unbearable
+affreux;awful
+interminable;endless
+vierge;virgin
+nerveux;nervous
+suprême;supreme
+stupide;stupid
+sourd;deaf
+ivre;drunk
+ultime;ultimate
+idiot;idiot
+merveilleux;marvelous
+catholique;Catholic
+fermé;closed
+solitaire;solitary
+horrible;horrible
+central;central
+roux;redhead
+parfait;perfect
+douloureux, pénible;painful
+complet;complete
+soviétique;Soviet
+sacré;sacred
+intense;intense
+égal;equal
+honnête;honest
+coupable;guilty
+évident;obvious
+souple;flexible
+noble;noble
+sinistre;sinister
+puissant;powerful
+ordinaire;ordinary
+juif;Jewish
+exact;exact
+éternel;eternal
+confus;confused
+charmant;charming
+magique;magical
+assis;seated
+timide;shy
+suivant;following
+violent;violent
+raisonnable;reasonable
+intelligent;intelligent
+incroyable;incredible
+muet;mute
+superbe;superb
+supérieur;superior
+sincère;sincere
+saint;saint, holy
+personnel;personal
+familier;familiar
+absent;absent
+tragique;tragic
+marine;naval
+définitif;definitive
+formidable, redoutable;formidable
+réel;real
+glacé;frozen
+responsable;responsible
+probable;probable
+quotidien;daily
+attentif;attentive
+endormi;sleepy
+fatigué;tired
+chinois;Chinese
+brillant;brilliant
+désagréable;unpleasant
+royal;royal
+métallique;metallic
+régulier;regular
+doré;golden
+absolu;absolute
+misérable;miserable
+indifférent;indifferent
+étonnant;astonishing
+feu;fire
+étendu;extended
+méchant;mean
+excellent;excellent
+considérable;considerable
+connu;known
+principal;main
+inhabituel, insolite;unusual
+gigantesque;gigantic
+classique;classic
+quatrième;fourth
+pratiques, commode;convenient
+indispensable;indispensable
+brûlant;burning
+mécanique;mechanical
+intéressant;interesting
+hostile;hostile
+brutal;brutal
+dérisoire;derisory
+élevé;elevated
+jaloux;jealous
+délicieux;delicious
+habituel;usual
+moral;moral
+cruel;cruel
+économique;economic
+dégueulasse;disgusting
+spécial;special
+morne;dull
+âgé;old, aged
+moche;unattractive
+multiple;multiple
+arabe;Arab
+généreux;generous
+enfantin;childish
+futur;future
+provisoire;provisional
+surpris;surprised
+irrésistible;irresistible
+marron;brown
+ironique;ironic
+délicat;delicate
+tendu;tense
+italien;Italian
+mélancolique;melancholic
+malin;clever
+injuste;unfair
+inévitable;inevitable
+féminin;feminine
+étonné;astonished
+serré;tight
+mouillé;wet
+monotone;monotonous
+légitime;legitimate
+atroce;atrocious
+soi-disant;so-called
+habile;skillful
+arrivé;arrived
+honteux;ashamed
+amusant;amusing
+familial;familial
+chéri;beloved
+convenable;suitable
+compliqué;complicated
+combattant;fighter
+vulgaire;vulgar
+humble;humble
+pressé;rushed
+lâche;cowardly
+complice;accomplice
+chic;stylish
+prudent;prudent
+imaginaire;imaginary
+fini;finished
+féroce;ferocious
+fatal;fatal
+confortable;comfortable
+transparent;transparent
+extérieur;outside
+efficace;efficient
+infini;infinite
+imperceptible;imperceptible
+parisien;Parisian
+officiel;official
+mondial;global
+amer;bitter
+aigu;sharp
+nord;north
+médiocre;mediocre
+incompréhensible;incomprehensible
+littéraire;literary
+inverse, contraire;opposite
+direct;direct
+divin;divine
+intact;intact
+historique;historic
+divers;various
+urgent;urgent
+levé;raised
+farouche;fierce
+final;final
+conséquent;consequent
+religieux;religious
+gêné;embarrassed
+instant;instant
+élégant;elegant
+favorable;favorable
+banal;banal
+troublé;troubled
+logique;logical
+innocent;innocent
+inférieur;inferior
+grec;Greek
+amical;friendly
+maternel;maternal
+enceinte;pregnant
+souriant;smiling
+franc;frank
+subtil;subtle
+imbécile;foolish
+glorieux;glorious
+volontaire;voluntary
+remarquable;remarcable
+régional;regional
+multicolore;multicolored
+mauve;mauve
+monstrueux;monstrous
+inerte;inert
+immédiat;immediate
+civil;civil
+antique;ancient, old, antique
+pratique;practical
+lucide;lucid
+tremblant;trembling
+intolérable;intolerable
+satisfait;satisfied
+laid;ugly
+inattendu;unexpected
+fade;bland
+comique;comical
+avide;greedy
+apparent;apparent
+tenace;tenacious
+supplémentaire;additional
+neutre;neutral
+élémentaire;elementary
+douteux;doubtful
+orange;orange
+espagnol;Spanish
+carré;square
+suffisant;sufficient
+moite;damp
+international;international
+rempli;filled
+peint;painted
+fabuleux;fabulous
+dense;dense
+singulier;singular
+gratuit;free of charge

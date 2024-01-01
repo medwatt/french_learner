@@ -1,0 +1,61 @@
+la cuillère;spoon
+le couteau;knife
+la fourchette;fork
+la cuisinière;stove
+la casserole;pot
+l'assiette;plate
+le bol;bowl
+la tasse;cup
+le verre;glass
+la poêle;frying pan
+le faitout;saucepan
+le saladier;salad bowl
+le plat;dish
+le plateau;tray
+le mixeur;blender
+le batteur;mixer
+le grille-pain;toaster
+le micro-ondes;microwave
+le réfrigérateur;refrigerator
+le congélateur;freezer
+le lave-vaisselle;dishwasher
+l'évier;sink
+le robinet;faucet
+la planche à découper;cutting board
+le rouleau à pâtisserie;rolling pin
+le fouet;whisk
+la passoire;colander
+l'ouvre-boîte;can opener
+la spatule;spatula
+le presse-purée;potato masher
+le mortier;mortar
+le tablier;apron
+le gant de cuisine;oven mitt
+le torchon;dish towel
+le bocal;jar
+la boîte;box
+le couvercle;lid
+la balance;scale
+le thermomètre;thermometer
+le minuteur;timer
+le moule à gâteau;cake mold
+la râpe;grater
+le hachoir;chopper
+la brosse à vaisselle;dish brush
+le détergent;detergent
+le sac à ordures;garbage bag
+Cuire;to cook
+Bouillir;to boil
+Griller;to grill
+Mijoter;to simmer
+Rôtir;to roast
+Frire;to fry
+Hacher;to chop
+Mélanger;to mix
+Assaisonner;to season
+Éplucher;to peel
+Battre;to beat
+Trancher;to slice
+Pétrir;to knead
+Chauffer;to heat
+Refroidir;to cool

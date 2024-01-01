@@ -22,45 +22,4 @@ guess_french_word: true
 correct_guesses_to_remove: 3
 
 # Say words aloud
-say_word: false
-
-# List of vocabulary sets with titles and filenames
-vocabulary_sets:
-  - title: "Adjectives"
-    filename: "adjectives.txt"
-  - title: "Adverbs"
-    filename: "adverbs.txt"
-  - title: "Animals"
-    filename: "animals.txt"
-  - title: "Body Parts"
-    filename: "body-parts.txt"
-  - title: "Clothing"
-    filename: "clothing.txt"
-  - title: "Colors"
-    filename: "colors.txt"
-  - title: "Connecting Words"
-    filename: "connecting-words.txt"
-  - title: "Emotions"
-    filename: "emotions.txt"
-  - title: "Fruits"
-    filename: "fruits.txt"
-  - title: "Geography"
-    filename: "geography.txt"
-  - title: "Kitchen"
-    filename: "kitchen.txt"
-  - title: "Sport"
-    filename: "sport.txt"
-  - title: "Well Being"
-    filename: "well-being.txt"
-  - title: "Technology"
-    filename: "technology.txt"
-  - title: "Tools"
-    filename: "tools.txt"
-  - title: "Transportation"
-    filename: "transportation.txt"
-  - title: "Weather"
-    filename: "weather.txt"
-  - title: "Verbs"
-    filename: "verbs.txt"
-  - title: "Verbs (Reflexive)"
-    filename: "reflexive-verbs.txt"
+say_word: true

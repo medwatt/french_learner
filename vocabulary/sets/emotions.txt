@@ -1,0 +1,50 @@
+la joie;joy
+la tristesse;sadness
+la colère;anger
+la peur;fear
+l'amour;love
+la surprise;surprise
+le dégoût;disgust
+l'excitation;excitement
+l'anxiété;anxiety
+la frustration;frustration
+le bonheur;happiness
+le chagrin;grief
+l'espoir;hope
+le désespoir;despair
+la jalousie;jealousy
+l'envie;envy
+la fierté;pride
+la honte;shame
+la culpabilité;guilt
+l'indifférence;indifference
+la curiosité;curiosity
+l'ennui;boredom
+la confiance;confidence
+l'insécurité;insecurity
+la sympathie;sympathy
+l'empathie;empathy
+la gratitude;gratitude
+l'étonnement;astonishment
+le soulagement;relief
+le regret;regret
+l'admiration;admiration
+la nostalgie;nostalgia
+l'agitation;agitation
+l'appréhension;apprehension
+l'enthousiasme;enthusiasm
+la passion;passion
+la tendresse;tenderness
+la mélancolie;melancholy
+l'épuisement;exhaustion
+le stress;stress
+la détente;relaxation
+la sérénité;serenity
+l'angoisse;anguish
+la panique;panic
+l'irritation;irritation
+la résignation;resignation
+l'anticipation;anticipation
+l'émerveillement;wonder
+la consternation;dismay
+le ravissement;delight

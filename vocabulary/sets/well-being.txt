@@ -1,0 +1,46 @@
+la douleur;pain
+la blessure;wound
+le mal de tête;headache
+la fièvre;fever
+la fatigue;fatigue
+le stress;stress
+l'anxiété;anxiety
+la dépression;depression
+l'insomnie;insomnia
+la nausée;nausea
+la toux;cough
+l'éternuement;sneeze
+le rhume;cold
+la grippe;flu
+l'allergie;allergy
+la brûlure;burn
+la coupure;cut
+l'éruption cutanée;rash
+la démangeaison;itch
+la fracture;fracture
+l'entorse;sprain
+la tension;tension
+la migraine;migraine
+le vertige;dizziness
+l'indigestion;indigestion
+la diarrhée;diarrhea
+la constipation;constipation
+le mal de dos;back pain
+l'arthrite;arthritis
+l'asthme;asthma
+le diabète;diabetes
+l'hypertension;hypertension
+le cancer;cancer
+l'ulcère;ulcer
+l'obésité;obesity
+la malnutrition;malnutrition
+la déshydratation;dehydration
+l'anémie;anemia
+la cataracte;cataract
+la myopie;myopia
+l'acné;acne
+la calvitie;baldness
+la carie;cavity
+l'apnée du sommeil;sleep apnea
+la ménopause;menopause
+l'eczéma;eczema
